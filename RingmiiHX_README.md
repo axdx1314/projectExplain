@@ -1,7 +1,7 @@
 # 盖德健康
 [![Gradle](https://img.shields.io/badge/gradle-3.2.0-blue)](https://gradle.org/)
-[![targetSdkVersion](https://img.shields.io/badge/targetSdkVersion-28-blue)](https://developer.android.google.cn/about/versions/pie/android-9.0-changes-28?)
 [![Download](https://img.shields.io/badge/盖德健康(beta).apk-1.8.0-brightgreen)](https://www.pgyer.com/1TyL)
+
 
 ## 1.8.0
 * 删除无用资源
