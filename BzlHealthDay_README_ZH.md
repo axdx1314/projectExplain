@@ -1,4 +1,4 @@
-# [中文](https://gitlab.com/axdx1314/bzlhealthday/blob/master/README.md)&nbsp;&nbsp;[English](https://gitlab.com/axdx1314/bzlhealthday/blob/master/README_EN.md)
+# [中文](https://github.com/axdx1314/projectExplain/blob/master/BzlHealthDay_README_ZH.md)&nbsp;&nbsp;[English](https://github.com/axdx1314/projectExplain/blob/master/BzlHealthDay_README_EN.md)
 ## 检一检
 智能健康运动手环 计步、睡眠、心率、血氧、HRV......
 
