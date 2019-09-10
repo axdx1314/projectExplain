@@ -1,4 +1,4 @@
-# [Chinese](https://gitlab.com/axdx1314/bzlhealthday/blob/master/README.md)&nbsp;&nbsp;[English](https://gitlab.com/axdx1314/bzlhealthday/blob/master/README_EN.md)
+# [Chinese](https://github.com/axdx1314/projectExplain/blob/master/BzlHealthDay_README_ZH.md)&nbsp;&nbsp;[English](https://github.com/axdx1314/projectExplain/blob/master/BzlHealthDay_README_EN.md)
 ## DayHealth
 Intelligent and healthy exercise hand ring pedometer, sleep, heart rate, blood oxygen, HRV...
 
